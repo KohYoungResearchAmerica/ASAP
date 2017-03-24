@@ -1,2 +1,10 @@
 /mevislab/DIAG/Pathology/Modules/Scripts/python/multiresolutionimageinterface/_multiresolutionimageinterface.pyd
 /mevislab/DIAG/Pathology/Modules/Scripts/python/multiresolutionimageinterface/multiresolutionimageinterface.py
+Makefile
+cmake_install.cmake
+CMakeFiles/
+moc_*
+*.so
+*.depends
+
+
