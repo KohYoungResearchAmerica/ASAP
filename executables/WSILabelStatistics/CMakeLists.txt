@@ -13,6 +13,7 @@ TARGET_INCLUDE_DIRECTORIES(
   .
   ../../
   ${WSILabelStatistics_SOURCE_DIR}/../../io/multiresolutionimageinterface
+  ${WSILabelStatistics_SOURCE_DIR}/../../imgproc/wholeslide
   ${Boost_INCLUDE_DIRS}
   ${WHOLESLIDEFILTERS_SOURCE_DIR}
   ${DIAGPathology_BINARY_DIR}

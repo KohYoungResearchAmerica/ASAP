@@ -11,6 +11,7 @@ TARGET_INCLUDE_DIRECTORIES(WSIConnectedComponents PRIVATE
   .
   ../../
   ${WSIConnectedComponents_SOURCE_DIR}/../../io/multiresolutionimageinterface
+  ${WSIConnectedComponents_SOURCE_DIR}/../../imageprof/wholeslide
   ${Boost_INCLUDE_DIRS}
   ${WHOLESLIDEFILTERS_SOURCE_DIR}
   ${DIAGPathology_BINARY_DIR}

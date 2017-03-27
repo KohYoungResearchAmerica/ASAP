@@ -12,6 +12,7 @@ TARGET_INCLUDE_DIRECTORIES(
   .
   ../../
   ${WSIDistanceTransform_SOURCE_DIR}/../../io/multiresolutionimageinterface
+  ${WSIDistanceTransform_SOURCE_DIR}/../../imageproc/wholeslide
   ${Boost_INCLUDE_DIRS}
   ${WHOLESLIDEFILTERS_SOURCE_DIR}
   ${DIAGPathology_BINARY_DIR}
